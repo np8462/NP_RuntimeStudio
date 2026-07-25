@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D714C328-00CD-492F-8ABA-FCDF4EA43D5F}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>NP.Services</RootNamespace>
+    <AssemblyName>NP.Services</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\NP.Storage\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="websocket-sharp">
+      <HintPath>..\websocket-sharp.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Abstractions\ILogView.cs" />
+    <Compile Include="AI\AIService.cs" />
+    <Compile Include="Bridge\BridgeClientService.cs" />
+    <Compile Include="Bridge\BridgeService.cs" />
+    <Compile Include="Bridge\BridgeSessionService.cs" />
+    <Compile Include="Bridge\ChromeBridgeService.cs" />
+    <Compile Include="Bridge\VSBridgeService.cs" />
+    <Compile Include="Builders\BuilderBase.cs" />
+    <Compile Include="Builders\FolderBuilder.cs" />
+    <Compile Include="Builders\ObjectBuilder.cs" />
+    <Compile Include="ChromeBridge\ChromeBridgeDispatcher.cs" />
+    <Compile Include="Classification\CommandCategory.cs" />
+    <Compile Include="Commands\CommandRegistry.cs" />
+    <Compile Include="Commands\CommandManager.cs" />
+    <Compile Include="Commands\CommandPacket.cs" />
+    <Compile Include="Commands\CommandBus.cs" />
+    <Compile Include="Commands\ICommand.cs" />
+    <Compile Include="Commands\MessagePacket.cs" />
+    <Compile Include="Commands\RelayCommand.cs" />
+    <Compile Include="Commands\ToolRequest.cs" />
+    <Compile Include="Commands\ToolResponse.cs" />
+    <Compile Include="Commands\VsCommand.cs" />
+    <Compile Include="Common\JsonHelper.cs" />
+    <Compile Include="Components\ComponentActivator.cs" />
+    <Compile Include="Components\ComponentBuilder.cs" />
+    <Compile Include="Components\ComponentCompiler.cs" />
+    <Compile Include="Components\ComponentLoader.cs" />
+    <Compile Include="Components\ComponentProject.cs" />
+    <Compile Include="Components\ComponentRegistry.cs" />
+    <Compile Include="Components\ComponentRuntime.cs" />
+    <Compile Include="Components\ComponentWorkspace.cs" />
+    <Compile Include="Components\DependencyScanner.cs" />
+    <Compile Include="Components\IComponent.cs" />
+    <Compile Include="Components\ReflectionScanner.cs" />
+    <Compile Include="Components\RuntimeComponent.cs" />
+    <Compile Include="Components\RuntimeHost.cs" />
+    <Compile Include="Components\RuntimeWindowManager.cs" />
+    <Compile Include="Development\BuildAnalyzer.cs" />
+    <Compile Include="Development\BuildCompiler.cs" />
+    <Compile Include="Development\BuildOutputKind.cs" />
+    <Compile Include="Development\BuildProject.cs" />
+    <Compile Include="Development\BuildResult.cs" />
+    <Compile Include="Development\BuildOptions.cs" />
+    <Compile Include="Development\BuildLogger.cs" />
+    <Compile Include="Development\BuildExplorer.cs" />
+    <Compile Include="Development\BuildService.cs" />
+    <Compile Include="Development\BuildManager.cs" />
+    <Compile Include="Development\DevelopmentWorkspace.cs" />
+    <Compile Include="Engine\IPlugin.cs" />
+    <Compile Include="Engine\PluginEngine.cs" />
+    <Compile Include="Engine\PluginInfo.cs" />
+    <Compile Include="Engine\ServiceEngine.cs" />
+    <Compile Include="Forms\HostForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Infrastructure\ServiceBase.cs" />
+    <Compile Include="IntelliSense\IntelliSenseController.cs" />
+    <Compile Include="IntelliSense\IntelliSenseEngine.cs" />
+    <Compile Include="IntelliSense\SuggestionProvider.cs" />
+    <Compile Include="Classification\MessageClassifier.cs" />
+    <Compile Include="Engine\CommandEngine.cs" />
+    <Compile Include="Json\JsonDiffEngine.cs" />
+    <Compile Include="Json\JsonFormatter.cs" />
+    <Compile Include="Json\JsonParser.cs" />
+    <Compile Include="Json\JsonTreeBuilder.cs" />
+    <Compile Include="Notifications\NotificationService.cs" />
+    <Compile Include="Plugins\PluginRegistry.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Routing\MessageRouter.cs" />
+    <Compile Include="RuntimeBridge\IRuntimeBridge.cs" />
+    <Compile Include="RuntimeBridge\RuntimeBridgeLauncher.cs" />
+    <Compile Include="RuntimeBridge\RuntimeBridgeClient.cs" />
+    <Compile Include="RuntimeBridge\RuntimeBridgeProvider.cs" />
+    <Compile Include="RuntimeBridge\RuntimeBridgeSocket.cs" />
+    <Compile Include="Runtime\BridgeRuntime.cs" />
+    <Compile Include="Runtime\CommandContextParser.cs" />
+    <Compile Include="Runtime\CommandExecutor.cs" />
+    <Compile Include="Runtime\CommandParser.cs" />
+    <Compile Include="Runtime\RuntimeBuilder.cs" />
+    <Compile Include="Runtime\RuntimeContext.cs" />
+    <Compile Include="Runtime\SessionInfo.cs" />
+    <Compile Include="Runtime\RuntimeStateBag.cs" />
+    <Compile Include="Runtime\RuntimeLogger.cs" />
+    <Compile Include="Runtime\RuntimeManager.cs" />
+    <Compile Include="Runtime\RuntimePaths.cs" />
+    <Compile Include="Runtime\RuntimeSession.cs" />
+    <Compile Include="Runtime\RuntimeState.cs" />
+    <Compile Include="Runtime\SessionManager.cs" />
+    <Compile Include="Server\HttpServer.cs" />
+    <Compile Include="Server\IRuntimeServer.cs" />
+    <Compile Include="Server\PipeMessage.cs" />
+    <Compile Include="Server\RuntimePipeClient.cs" />
+    <Compile Include="Server\RuntimePipeServer.cs" />
+    <Compile Include="Server\RuntimeServerService.cs" />
+    <Compile Include="Server\RuntimeSocketBehavior.cs" />
+    <Compile Include="Server\RuntimeSocketServer.cs" />
+    <Compile Include="Server\LegacyWebSocketServer.cs" />
+    <Compile Include="Services\PluginManager.cs" />
+    <Compile Include="Services\PluginService.cs" />
+    <Compile Include="Services\RecentFileService.cs" />
+    <Compile Include="Services\SettingsService.cs" />
+    <Compile Include="Services\StorageService.cs" />
+    <Compile Include="Sessions\SessionRegistry.cs" />
+    <Compile Include="Tools\CommandFactory.cs" />
+    <Compile Include="Tools\DirectoryUtility.cs" />
+    <Compile Include="Tools\FileUtility.cs" />
+    <Compile Include="Tools\ITool.cs" />
+    <Compile Include="Tools\Logger.cs" />
+    <Compile Include="Tools\OpenFileTool.cs" />
+    <Compile Include="Tools\ReflectionHelper.cs" />
+    <Compile Include="Tools\ToolManager.cs" />
+    <Compile Include="Tools\ToolRegistry.cs" />
+    <Compile Include="Utilities\JsonUtility.cs" />
+    <Compile Include="Utilities\StringUtility.cs" />
+    <Compile Include="Validation\MessageValidator.cs" />
+    <Compile Include="Validation\ValidationResult.cs" />
+    <Compile Include="Validation\ValidatorBase.cs" />
+    <Compile Include="VSExtension\VsAddinManager.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\NP.Core\NP.Core.csproj">
+      <Project>{bbf778bb-f42e-4acf-8a50-7da5d60661ff}</Project>
+      <Name>NP.Core</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,57 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <title>NP Bridge</title>
+    </head>
+    <body>
+        <h4>Bridge</h4>
+
+        <button id="receiveBtn">
+        Receive
+        </button>
+
+        <button id="copyBtn">
+        Copy Code
+        </button>
+
+        <button id="tempBtn">
+        Create Temp
+        </button>
+
+        <button id="sendAiBtn">
+        Send To AI
+        </button>
+
+        <hr />
+
+        <div>
+        Project:
+        <span id="project"></span>
+        </div>
+
+        <div>
+        File:
+        <span id="file"></span>
+        </div>
+
+        <textarea
+            id="selectedCode"
+            rows="10"
+            cols="50">
+        </textarea>
+        <input        type="file"        id="filePicker"/>
+        <button        id="sendFileBtn">Send File</button>
+        <script src="popup.js"></script>
+        <div id="status"
+            style="
+            margin-top:10px;
+            padding:5px;
+            display:none;
+            background:#dff0d8;
+            border:1px solid #5cb85c;
+            font-size:12px;">
+        </div>
+    </body>
+</html>
+
+

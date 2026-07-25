@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:padding="10dp"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    <Button
+        android:id="@+id/btnDns"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="DNS Test" />
+    <Button
+        android:id="@+id/btnHttp"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="HTTP Test" />
+    <Button
+        android:id="@+id/btnHttpsGoogle"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="HTTPS Google" />
+    <Button
+        android:id="@+id/btnHttpsApi"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="HTTPS ApiFreeLLM" />
+    <Button
+        android:id="@+id/btnHttpClient"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="HttpClient Test" />
+    <Button
+        android:id="@+id/btnClear"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Clear Result" />
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+        <TextView
+            android:id="@+id/txtResult"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Ready..."
+            android:textSize="14sp" />
+    </ScrollView>
+</LinearLayout>

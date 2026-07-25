@@ -1,0 +1,28 @@
+NP.AI.Mobile.ChatActivity, NP.AI.Mobile;md5af8e6bf050d9d8754b1b21c956e9fabe.ChatActivity
+NP.AI.Mobile.ChatActivity, NP.AI.Mobile, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5af8e6bf050d9d8754b1b21c956e9fabe.ChatActivity
+NP.AI.Mobile.ChatActivity;md5af8e6bf050d9d8754b1b21c956e9fabe.ChatActivity
+np.ai.mobile.ChatActivity;md5af8e6bf050d9d8754b1b21c956e9fabe.ChatActivity
+NP.AI.Mobile.ChatAdapter, NP.AI.Mobile;md5af8e6bf050d9d8754b1b21c956e9fabe.ChatAdapter
+NP.AI.Mobile.ChatAdapter, NP.AI.Mobile, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5af8e6bf050d9d8754b1b21c956e9fabe.ChatAdapter
+NP.AI.Mobile.ChatAdapter;md5af8e6bf050d9d8754b1b21c956e9fabe.ChatAdapter
+np.ai.mobile.ChatAdapter;md5af8e6bf050d9d8754b1b21c956e9fabe.ChatAdapter
+NP.AI.Mobile.MainActivity, NP.AI.Mobile;md5af8e6bf050d9d8754b1b21c956e9fabe.MainActivity
+NP.AI.Mobile.MainActivity, NP.AI.Mobile, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5af8e6bf050d9d8754b1b21c956e9fabe.MainActivity
+NP.AI.Mobile.MainActivity;md5af8e6bf050d9d8754b1b21c956e9fabe.MainActivity
+np.ai.mobile.MainActivity;md5af8e6bf050d9d8754b1b21c956e9fabe.MainActivity
+NP.AI.Mobile.NetworkTest2Activity, NP.AI.Mobile;md5af8e6bf050d9d8754b1b21c956e9fabe.NetworkTest2Activity
+NP.AI.Mobile.NetworkTest2Activity, NP.AI.Mobile, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5af8e6bf050d9d8754b1b21c956e9fabe.NetworkTest2Activity
+NP.AI.Mobile.NetworkTest2Activity;md5af8e6bf050d9d8754b1b21c956e9fabe.NetworkTest2Activity
+np.ai.mobile.NetworkTest2Activity;md5af8e6bf050d9d8754b1b21c956e9fabe.NetworkTest2Activity
+NP.AI.Mobile.NetworkTestActivity, NP.AI.Mobile;md5af8e6bf050d9d8754b1b21c956e9fabe.NetworkTestActivity
+NP.AI.Mobile.NetworkTestActivity, NP.AI.Mobile, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5af8e6bf050d9d8754b1b21c956e9fabe.NetworkTestActivity
+NP.AI.Mobile.NetworkTestActivity;md5af8e6bf050d9d8754b1b21c956e9fabe.NetworkTestActivity
+np.ai.mobile.NetworkTestActivity;md5af8e6bf050d9d8754b1b21c956e9fabe.NetworkTestActivity
+NP.AI.Mobile.SettingsActivity, NP.AI.Mobile;md5af8e6bf050d9d8754b1b21c956e9fabe.SettingsActivity
+NP.AI.Mobile.SettingsActivity, NP.AI.Mobile, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5af8e6bf050d9d8754b1b21c956e9fabe.SettingsActivity
+NP.AI.Mobile.SettingsActivity;md5af8e6bf050d9d8754b1b21c956e9fabe.SettingsActivity
+np.ai.mobile.SettingsActivity;md5af8e6bf050d9d8754b1b21c956e9fabe.SettingsActivity
+NP.AI.Mobile.TestApiActivity, NP.AI.Mobile;md5af8e6bf050d9d8754b1b21c956e9fabe.TestApiActivity
+NP.AI.Mobile.TestApiActivity, NP.AI.Mobile, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5af8e6bf050d9d8754b1b21c956e9fabe.TestApiActivity
+NP.AI.Mobile.TestApiActivity;md5af8e6bf050d9d8754b1b21c956e9fabe.TestApiActivity
+np.ai.mobile.TestApiActivity;md5af8e6bf050d9d8754b1b21c956e9fabe.TestApiActivity

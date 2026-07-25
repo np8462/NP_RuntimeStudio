@@ -1,0 +1,14 @@
+E:\NotSaved\Projects\NP_AI_RuntimeStudio\NP.Host.RuntimeBridge\bin\Debug\NP.Host.RuntimeBridge.exe.config
+E:\NotSaved\Projects\NP_AI_RuntimeStudio\NP.Host.RuntimeBridge\bin\Debug\NP.Host.RuntimeBridge.exe
+E:\NotSaved\Projects\NP_AI_RuntimeStudio\NP.Host.RuntimeBridge\bin\Debug\NP.Host.RuntimeBridge.pdb
+E:\NotSaved\Projects\NP_AI_RuntimeStudio\NP.Host.RuntimeBridge\bin\Debug\NP.Core.dll
+E:\NotSaved\Projects\NP_AI_RuntimeStudio\NP.Host.RuntimeBridge\bin\Debug\NP.Services.dll
+E:\NotSaved\Projects\NP_AI_RuntimeStudio\NP.Host.RuntimeBridge\bin\Debug\websocket-sharp.dll
+E:\NotSaved\Projects\NP_AI_RuntimeStudio\NP.Host.RuntimeBridge\bin\Debug\Newtonsoft.Json.dll
+E:\NotSaved\Projects\NP_AI_RuntimeStudio\NP.Host.RuntimeBridge\bin\Debug\NP.Core.pdb
+E:\NotSaved\Projects\NP_AI_RuntimeStudio\NP.Host.RuntimeBridge\bin\Debug\NP.Services.pdb
+E:\NotSaved\Projects\NP_AI_RuntimeStudio\NP.Host.RuntimeBridge\obj\Debug\NP.Host.RuntimeBridge.csprojResolveAssemblyReference.cache
+E:\NotSaved\Projects\NP_AI_RuntimeStudio\NP.Host.RuntimeBridge\obj\Debug\NP.Host.RuntimeBridge.Properties.Resources.resources
+E:\NotSaved\Projects\NP_AI_RuntimeStudio\NP.Host.RuntimeBridge\obj\Debug\NP.Host.RuntimeBridge.csproj.GenerateResource.Cache
+E:\NotSaved\Projects\NP_AI_RuntimeStudio\NP.Host.RuntimeBridge\obj\Debug\NP.Host.RuntimeBridge.exe
+E:\NotSaved\Projects\NP_AI_RuntimeStudio\NP.Host.RuntimeBridge\obj\Debug\NP.Host.RuntimeBridge.pdb

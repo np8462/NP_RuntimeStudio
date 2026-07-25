@@ -1,0 +1,9 @@
+﻿<Properties StartupConfiguration="{4720D220-6264-4559-8813-B9F557E30182}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.NP.AI.Mobile PreferredExecutionTarget="Android.c2b5cc16" />
+  <MonoDevelop.Ide.Workbench />
+</Properties>

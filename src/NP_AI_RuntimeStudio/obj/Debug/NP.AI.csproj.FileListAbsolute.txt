@@ -1,0 +1,10 @@
+E:\NotSaved\Projects\NP_AI_RuntimeStudio\NP_AI_RuntimeStudio\bin\Debug\NP.AI.dll
+E:\NotSaved\Projects\NP_AI_RuntimeStudio\NP_AI_RuntimeStudio\bin\Debug\NP.AI.pdb
+E:\NotSaved\Projects\NP_AI_RuntimeStudio\NP_AI_RuntimeStudio\bin\Debug\Newtonsoft.Json.dll
+E:\NotSaved\Projects\NP_AI_RuntimeStudio\NP_AI_RuntimeStudio\bin\Debug\NP.Core.dll
+E:\NotSaved\Projects\NP_AI_RuntimeStudio\NP_AI_RuntimeStudio\bin\Debug\NP.Storage.dll
+E:\NotSaved\Projects\NP_AI_RuntimeStudio\NP_AI_RuntimeStudio\bin\Debug\NP.Core.pdb
+E:\NotSaved\Projects\NP_AI_RuntimeStudio\NP_AI_RuntimeStudio\bin\Debug\NP.Storage.pdb
+E:\NotSaved\Projects\NP_AI_RuntimeStudio\NP_AI_RuntimeStudio\obj\Debug\NP.AI.csprojResolveAssemblyReference.cache
+E:\NotSaved\Projects\NP_AI_RuntimeStudio\NP_AI_RuntimeStudio\obj\Debug\NP.AI.dll
+E:\NotSaved\Projects\NP_AI_RuntimeStudio\NP_AI_RuntimeStudio\obj\Debug\NP.AI.pdb
