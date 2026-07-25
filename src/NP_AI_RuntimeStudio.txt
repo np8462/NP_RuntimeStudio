@@ -1,0 +1,236 @@
+NP_AI_RUNTIMESTUDIO
+===================
+NP.COMMANDS                 DIR                              5/30/2026   3:34:46 PM
+NP.CORE                     DIR                              5/30/2026   3:25:24 PM
+NP.HOST                     DIR                              6/3/2026    4:37:17 PM
+NP.STORAGE                  DIR                              6/4/2026    7:14:11 PM
+NP.VSEXTENSION              DIR                              6/5/2026    10:31:21 AM
+NP_AI_RUNTIMESTUDIO         DIR                              6/4/2026    12:00:44 PM
+NP_AI_RuntimeStudio.sln     3.3 KB (3336 bytes)              6/5/2026    10:25:41 AM
+
+NP.COMMANDS
+===========
+BIN                         DIR                              5/29/2026   10:38:02 PM
+BUILDERS                    DIR                              5/29/2026   3:01:02 PM
+CLASSIFICATION              DIR                              5/29/2026   3:19:06 PM
+ENGINE                      DIR                              5/29/2026   12:52:45 PM
+INTELLISENSE                DIR                              5/30/2026   3:27:52 PM
+OBJ                         DIR                              6/4/2026    8:55:01 PM
+PROPERTIES                  DIR                              5/29/2026   12:39:20 PM
+RUNTIME                     DIR                              5/30/2026   5:16:33 PM
+VALIDATION                  DIR                              5/29/2026   5:22:25 PM
+NP.Commands.csproj          3.1 KB (3213 bytes)              5/30/2026   5:18:23 PM
+NP.Commands.csproj.user     0.2 KB (227 bytes)               5/30/2026   3:34:46 PM
+
+BUILDERS
+========
+FolderBuilder.cs     1.0 KB (1005 bytes)              5/29/2026   3:06:40 PM
+
+CLASSIFICATION
+==============
+MessageClassifier.cs     3.8 KB (3939 bytes)              5/29/2026   4:24:45 PM
+
+ENGINE
+======
+CommandEngine.cs     1.4 KB (1433 bytes)              5/29/2026   3:06:41 PM
+
+INTELLISENSE
+============
+IntelliSenseController.cs     0.2 KB (223 bytes)               5/30/2026   3:34:46 PM
+IntelliSenseEngine.cs         5.6 KB (5758 bytes)              5/30/2026   6:16:58 PM
+SuggestionProvider.cs         3.0 KB (3075 bytes)              5/30/2026   8:03:01 PM
+
+PROPERTIES
+==========
+AssemblyInfo.cs     1.4 KB (1434 bytes)              5/29/2026   12:39:20 PM
+
+RUNTIME
+=======
+CommandContextParser.cs     0.2 KB (209 bytes)               5/30/2026   5:16:33 PM
+CommandExecutor.cs          3.5 KB (3625 bytes)              5/29/2026   7:16:56 PM
+CommandParser.cs            1.4 KB (1446 bytes)              5/29/2026   7:01:07 PM
+RuntimePaths.cs             0.6 KB (626 bytes)               5/29/2026   10:45:07 PM
+SuggestionCatalog.cs        3.8 KB (3919 bytes)              5/30/2026   12:11:11 PM
+
+VALIDATION
+==========
+MessageValidator.cs     5.2 KB (5343 bytes)              5/30/2026   8:28:26 PM
+
+NP.CORE
+=======
+BIN                DIR                              5/30/2026   11:15:45 AM
+CATALOGS           DIR                              5/30/2026   11:15:54 AM
+INTELLISENSE       DIR                              5/30/2026   5:12:26 PM
+MODELS             DIR                              6/3/2026    4:01:42 PM
+OBJ                DIR                              6/4/2026    8:55:01 PM
+PROPERTIES         DIR                              5/28/2026   2:58:41 PM
+NP.Core.csproj     2.8 KB (2901 bytes)              6/3/2026    4:25:26 PM
+
+CATALOGS
+========
+ObjectTypeCatalog.cs     0.3 KB (333 bytes)               5/30/2026   11:15:23 AM
+
+INTELLISENSE
+============
+SuggestionCatalog.cs     5.3 KB (5430 bytes)              5/30/2026   7:59:58 PM
+SuggestionContext.cs     0.6 KB (577 bytes)               5/30/2026   5:15:48 PM
+SuggestionItem.cs        1.0 KB (1012 bytes)              5/30/2026   3:47:07 PM
+
+MODELS
+======
+ChatInfo.cs              0.2 KB (214 bytes)               6/3/2026    4:02:12 PM
+ChatMessage.cs           1.3 KB (1328 bytes)              6/3/2026    6:35:02 PM
+CommandResult.cs         0.2 KB (169 bytes)               5/29/2026   12:44:19 PM
+MessageType.cs           1.3 KB (1330 bytes)              5/30/2026   7:56:10 PM
+ObjectDefinitions.cs     1.0 KB (1067 bytes)              5/29/2026   11:46:59 PM
+ProjectInfo.cs           0.2 KB (171 bytes)               6/3/2026    4:13:56 PM
+
+
+PROPERTIES
+==========
+AssemblyInfo.cs     1.4 KB (1426 bytes)              5/28/2026   2:58:41 PM
+
+NP.HOST
+=======
+BIN                            DIR                              5/29/2026   6:04:50 PM
+CONTROLS                       DIR                              5/30/2026   3:29:58 PM
+OBJ                            DIR                              6/4/2026    8:55:01 PM
+PROPERTIES                     DIR                              5/28/2026   2:56:54 PM
+REPOSITORIES                   DIR                              5/29/2026   4:02:27 PM
+STORAGE                        DIR                              5/29/2026   3:31:09 PM
+App.config                     0.2 KB (187 bytes)               5/28/2026   2:56:54 PM
+ChatStudioForm.cs              33.6 KB (34396 bytes)            6/3/2026    8:01:07 PM
+ChatStudioForm.Designer.cs     7.3 KB (7432 bytes)              5/30/2026   7:57:32 PM
+ChatStudioForm.resx            5.7 KB (5817 bytes)              5/30/2026   7:57:32 PM
+NP.Host.csproj                 5.0 KB (5120 bytes)              6/3/2026    4:37:17 PM
+NP.Host.csproj.user            0.2 KB (227 bytes)               6/3/2026    4:37:17 PM
+Program.cs                     0.9 KB (948 bytes)               5/30/2026   8:38:41 PM
+
+CONTROLS
+========
+IntelliSenseListBox.cs     0.1 KB (139 bytes)               5/30/2026   3:34:46 PM
+
+
+PROPERTIES
+==========
+AssemblyInfo.cs           1.4 KB (1426 bytes)              5/28/2026   2:56:54 PM
+Resources.Designer.cs     2.8 KB (2844 bytes)              5/28/2026   2:56:54 PM
+Resources.resx            5.5 KB (5612 bytes)              5/28/2026   2:56:54 PM
+Settings.Designer.cs      1.1 KB (1094 bytes)              5/28/2026   2:56:54 PM
+Settings.settings         0.2 KB (249 bytes)               5/28/2026   2:56:54 PM
+
+REPOSITORIES
+============
+ChatRepository.cs     4.4 KB (4455 bytes)              5/29/2026   4:03:49 PM
+
+STORAGE
+=======
+JsonChatStorage.cs     1.1 KB (1124 bytes)              5/29/2026   3:34:11 PM
+
+NP.STORAGE
+==========
+BIN                        DIR                              5/28/2026   3:15:09 PM
+INDEXING                   DIR                              6/3/2026    4:07:54 PM
+JSON                       DIR                              6/3/2026    2:59:46 PM
+JSONSTORAGE                DIR                              5/28/2026   4:12:39 PM
+LEGACY                     DIR                              6/3/2026    3:15:41 PM
+OBJ                        DIR                              6/4/2026    8:55:01 PM
+PROPERTIES                 DIR                              5/28/2026   2:59:12 PM
+REPOSITORIES               DIR                              6/3/2026    4:06:51 PM
+RUNTIME                    DIR                              6/3/2026    2:53:41 PM
+Dapper.dll                 240.0 KB (245760 bytes)          1/1/2026    10:22:06 AM
+Newtonsoft.Json.dll        644.0 KB (659456 bytes)          6/26/2024   4:14:48 PM
+NP.Storage.csproj          3.1 KB (3181 bytes)              6/3/2026    4:25:26 PM
+NP.Storage.csproj.user     0.2 KB (227 bytes)               6/5/2026    10:25:41 AM
+System.Data.SQLite.dll     298.5 KB (305664 bytes)          5/9/2026    7:36:45 PM
+
+INDEXING
+========
+ChatIndexer.cs        0.8 KB (795 bytes)               6/3/2026    4:22:47 PM
+HistoryIndexer.cs     0.5 KB (538 bytes)               6/3/2026    3:03:56 PM
+
+JSON
+====
+ChatHistoryStorage.cs     1.3 KB (1359 bytes)              6/3/2026    3:29:18 PM
+
+JSONSTORAGE
+===========
+JsonChatStorage.cs     0.9 KB (881 bytes)               5/28/2026   4:12:50 PM
+
+LEGACY
+======
+SqliteDbManager.cs     1.2 KB (1253 bytes)              5/28/2026   4:12:07 PM
+
+PROPERTIES
+==========
+AssemblyInfo.cs     1.4 KB (1432 bytes)              5/28/2026   2:59:12 PM
+
+REPOSITORIES
+============
+ChatRepository.cs        8.5 KB (8655 bytes)              6/3/2026    6:10:47 PM
+ProjectRepository.cs     1.7 KB (1744 bytes)              6/3/2026    4:38:13 PM
+
+RUNTIME
+=======
+StoragePaths.cs     1.0 KB (1007 bytes)              6/3/2026    4:37:17 PM
+
+NP.VSEXTENSION
+==============
+BIN                            DIR                              6/5/2026    11:40:28 AM
+COMMANDS                       DIR                              6/4/2026    7:03:12 PM
+FORMS                          DIR                              6/4/2026    6:56:47 PM
+MODELS                         DIR                              6/4/2026    6:54:22 PM
+OBJ                            DIR                              6/5/2026    10:11:57 AM
+SERVICES                       DIR                              6/4/2026    7:12:53 PM
+AssemblyInfo.cs                1.9 KB (1915 bytes)              6/5/2026    10:11:57 AM
+Connect.cs                     2.7 KB (2815 bytes)              6/5/2026    10:38:16 AM
+NP.VSExtension.AddIn           1.2 KB (1200 bytes)              6/5/2026    10:12:24 AM
+NP.VSExtension.csproj          6.5 KB (6647 bytes)              6/5/2026    11:40:20 AM
+NP.VSExtension.csproj.user     1.1 KB (1123 bytes)              6/5/2026    11:40:20 AM
+NP.VSExtension.xml             3.7 KB (3743 bytes)              6/5/2026    11:40:27 AM
+
+COMMANDS
+========
+ShowRuntimeStudioCommand.cs     0.3 KB (303 bytes)               6/4/2026    7:14:11 PM
+
+FORMS
+=====
+RuntimeStudioForm.cs              0.4 KB (425 bytes)               6/4/2026    6:56:47 PM
+RuntimeStudioForm.Designer.cs     1.2 KB (1204 bytes)              6/4/2026    6:56:47 PM
+
+SERVICES
+========
+SolutionScanner.cs         0.4 KB (377 bytes)               6/4/2026    7:13:09 PM
+VisualStudioService.cs     0.6 KB (573 bytes)               6/4/2026    7:14:11 PM
+
+NP.AI
+===================
+BIN                     DIR                              5/30/2026   7:28:53 PM
+DOCS                    DIR                              5/30/2026   12:13:50 AM
+MODELS                  DIR                              5/30/2026   7:14:59 PM
+OBJ                     DIR                              6/4/2026    8:55:01 PM
+PARSERS                 DIR                              6/4/2026    12:07:46 PM
+AiResponseParser.cs     0.7 KB (667 bytes)               6/2/2026    7:35:19 PM
+AiSettings.cs           0.4 KB (379 bytes)               6/2/2026    8:05:12 PM
+IAiProvider.cs          0.3 KB (265 bytes)               5/30/2026   7:21:46 PM
+NP.AI.csproj            3.9 KB (4035 bytes)              6/4/2026    7:14:11 PM
+NP.AI.csproj.user       0.5 KB (523 bytes)               5/30/2026   7:30:07 PM
+OpenAiProvider.cs       4.0 KB (4106 bytes)              6/2/2026    8:07:11 PM
+
+
+DOCS
+====
+AI_Project_State.md          5.5 KB (5616 bytes)              5/31/2026   7:43:40 PM
+RuntimeStudio_Roadmap.md     0.3 KB (310 bytes)               5/30/2026   11:12:34 AM
+
+MODELS
+======
+ChatMessage.cs     0.2 KB (200 bytes)               5/30/2026   7:32:56 PM
+ChatRequest.cs     0.2 KB (200 bytes)               5/30/2026   7:32:55 PM
+
+
+PARSERS
+=======
+AiResponseParser.cs     0.7 KB (714 bytes)               6/4/2026    12:07:56 PM
+CodeBlockParser.cs      0.8 KB (774 bytes)               6/4/2026    12:08:16 PM
+

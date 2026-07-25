@@ -1,0 +1,6 @@
+E:\NotSaved\Projects\NP_AI_RuntimeStudio\NP.Core\bin\Debug\NP.Core.dll
+E:\NotSaved\Projects\NP_AI_RuntimeStudio\NP.Core\bin\Debug\NP.Core.pdb
+E:\NotSaved\Projects\NP_AI_RuntimeStudio\NP.Core\bin\Debug\Newtonsoft.Json.dll
+E:\NotSaved\Projects\NP_AI_RuntimeStudio\NP.Core\obj\Debug\NP.Core.dll
+E:\NotSaved\Projects\NP_AI_RuntimeStudio\NP.Core\obj\Debug\NP.Core.pdb
+E:\NotSaved\Projects\NP_AI_RuntimeStudio\NP.Core\obj\Debug\NP.Core.csprojResolveAssemblyReference.cache

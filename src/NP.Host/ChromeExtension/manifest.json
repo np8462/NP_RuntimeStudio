@@ -1,0 +1,46 @@
+﻿{
+	"manifest_version":3,
+
+	"name":"NP Chrome Bridge",
+
+	"version":"1.0",
+
+	"permissions":
+	[
+	"storage",
+	"tabs",
+	"activeTab"
+	],
+
+	"host_permissions":
+	[
+	"http://localhost:5050/*",
+	"https://chatgpt.com/*"
+	],
+
+	"background":
+	{
+	"service_worker":"background.js"
+	},
+
+	"action":
+	{
+	"default_popup":"popup.html"
+	},
+
+	"content_scripts":
+	[
+	{
+		"matches":
+		[
+			"https://chatgpt.com/*"
+		],
+
+		"js":
+		[
+			"content.js",
+			"ChromeBridge.js"
+		]
+	}
+	]
+}

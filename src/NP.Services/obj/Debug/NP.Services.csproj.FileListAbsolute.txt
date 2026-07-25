@@ -1,0 +1,17 @@
+E:\NotSaved\Projects\NP_AI_RuntimeStudio\NP.Commands\bin\Debug\NP.Commands.dll
+E:\NotSaved\Projects\NP_AI_RuntimeStudio\NP.Commands\bin\Debug\NP.Commands.pdb
+E:\NotSaved\Projects\NP_AI_RuntimeStudio\NP.Commands\bin\Debug\NP.Core.dll
+E:\NotSaved\Projects\NP_AI_RuntimeStudio\NP.Commands\bin\Debug\Newtonsoft.Json.dll
+E:\NotSaved\Projects\NP_AI_RuntimeStudio\NP.Commands\bin\Debug\NP.Core.pdb
+E:\NotSaved\Projects\NP_AI_RuntimeStudio\NP.Commands\obj\Debug\NP.Services.csprojResolveAssemblyReference.cache
+E:\NotSaved\Projects\NP_AI_RuntimeStudio\NP.Commands\obj\Debug\NP.Commands.dll
+E:\NotSaved\Projects\NP_AI_RuntimeStudio\NP.Commands\obj\Debug\NP.Commands.pdb
+E:\NotSaved\Projects\NP_AI_RuntimeStudio\NP.Services\bin\Debug\NP.Services.dll
+E:\NotSaved\Projects\NP_AI_RuntimeStudio\NP.Services\bin\Debug\NP.Services.pdb
+E:\NotSaved\Projects\NP_AI_RuntimeStudio\NP.Services\bin\Debug\Newtonsoft.Json.dll
+E:\NotSaved\Projects\NP_AI_RuntimeStudio\NP.Services\bin\Debug\NP.Core.dll
+E:\NotSaved\Projects\NP_AI_RuntimeStudio\NP.Services\bin\Debug\NP.Core.pdb
+E:\NotSaved\Projects\NP_AI_RuntimeStudio\NP.Services\obj\Debug\NP.Services.csprojResolveAssemblyReference.cache
+E:\NotSaved\Projects\NP_AI_RuntimeStudio\NP.Services\obj\Debug\NP.Services.dll
+E:\NotSaved\Projects\NP_AI_RuntimeStudio\NP.Services\obj\Debug\NP.Services.pdb
+E:\NotSaved\Projects\NP_AI_RuntimeStudio\NP.Services\bin\Debug\websocket-sharp.dll

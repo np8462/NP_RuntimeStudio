@@ -1,0 +1,8 @@
+E:\NotSaved\Projects\NP_AI_RuntimeStudio\NP.Storage\bin\Debug\NP.Storage.dll
+E:\NotSaved\Projects\NP_AI_RuntimeStudio\NP.Storage\bin\Debug\NP.Storage.pdb
+E:\NotSaved\Projects\NP_AI_RuntimeStudio\NP.Storage\bin\Debug\Newtonsoft.Json.dll
+E:\NotSaved\Projects\NP_AI_RuntimeStudio\NP.Storage\bin\Debug\NP.Core.dll
+E:\NotSaved\Projects\NP_AI_RuntimeStudio\NP.Storage\bin\Debug\NP.Core.pdb
+E:\NotSaved\Projects\NP_AI_RuntimeStudio\NP.Storage\obj\Debug\NP.Storage.csprojResolveAssemblyReference.cache
+E:\NotSaved\Projects\NP_AI_RuntimeStudio\NP.Storage\obj\Debug\NP.Storage.dll
+E:\NotSaved\Projects\NP_AI_RuntimeStudio\NP.Storage\obj\Debug\NP.Storage.pdb

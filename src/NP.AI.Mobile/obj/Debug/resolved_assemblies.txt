@@ -1,0 +1,17 @@
+E:\NotSaved\Projects\NP_AI_RuntimeStudio\NP.AI.Mobile\obj\Debug\assemblies\NP.AI.Mobile.dll
+E:\NotSaved\Projects\NP_AI_RuntimeStudio\NP.AI.Mobile\obj\Debug\assemblies\Mono.Android.dll
+E:\NotSaved\Projects\NP_AI_RuntimeStudio\NP.AI.Mobile\obj\Debug\assemblies\mscorlib.dll
+E:\NotSaved\Projects\NP_AI_RuntimeStudio\NP.AI.Mobile\obj\Debug\assemblies\Newtonsoft.Json.dll
+E:\NotSaved\Projects\NP_AI_RuntimeStudio\NP.AI.Mobile\obj\Debug\assemblies\NP.Core.dll
+E:\NotSaved\Projects\NP_AI_RuntimeStudio\NP.AI.Mobile\obj\Debug\assemblies\System.Core.dll
+E:\NotSaved\Projects\NP_AI_RuntimeStudio\NP.AI.Mobile\obj\Debug\assemblies\System.dll
+E:\NotSaved\Projects\NP_AI_RuntimeStudio\NP.AI.Mobile\obj\Debug\assemblies\System.Net.dll
+E:\NotSaved\Projects\NP_AI_RuntimeStudio\NP.AI.Mobile\obj\Debug\assemblies\System.Net.Http.dll
+E:\NotSaved\Projects\NP_AI_RuntimeStudio\NP.AI.Mobile\obj\Debug\assemblies\System.Xml.dll
+E:\NotSaved\Projects\NP_AI_RuntimeStudio\NP.AI.Mobile\obj\Debug\assemblies\System.Xml.Linq.dll
+E:\NotSaved\Projects\NP_AI_RuntimeStudio\NP.AI.Mobile\obj\Debug\assemblies\System.Numerics.dll
+E:\NotSaved\Projects\NP_AI_RuntimeStudio\NP.AI.Mobile\obj\Debug\assemblies\System.Data.dll
+E:\NotSaved\Projects\NP_AI_RuntimeStudio\NP.AI.Mobile\obj\Debug\assemblies\Mono.Data.Tds.dll
+E:\NotSaved\Projects\NP_AI_RuntimeStudio\NP.AI.Mobile\obj\Debug\assemblies\Mono.Security.dll
+E:\NotSaved\Projects\NP_AI_RuntimeStudio\NP.AI.Mobile\obj\Debug\assemblies\System.Transactions.dll
+E:\NotSaved\Projects\NP_AI_RuntimeStudio\NP.AI.Mobile\obj\Debug\assemblies\System.Runtime.Serialization.dll
