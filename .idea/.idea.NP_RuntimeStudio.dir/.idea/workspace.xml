@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0d39f267-b653-4382-ad1d-c0e0abed1079" name="Changes" comment="Update DONATE.md">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.NP_RuntimeStudio.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.NP_RuntimeStudio.dir/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0d39f267-b653-4382-ad1d-c0e0abed1079" name="Changes" comment="Update DONATE.md" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +13,6 @@
         <option value="np8462 &lt;np.test1984@gmail.com&gt;" />
       </list>
     </option>
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/NP.Host/ChatStudioForm.cs" root0="SKIP_HIGHLIGHTING" />
@@ -45,7 +42,7 @@
       <option name="presentableId" value="Default" />
       <updated>1788444709087</updated>
       <workItem from="1788444741118" duration="3317000" />
-      <workItem from="1788448802221" duration="959000" />
+      <workItem from="1788448802221" duration="1293000" />
     </task>
     <task id="LOCAL-00001" summary="Update DONATE.md">
       <created>1788445044589</created>
@@ -96,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1788448962709</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Update DONATE.md">
+      <created>1788450175815</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1788450175815</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
